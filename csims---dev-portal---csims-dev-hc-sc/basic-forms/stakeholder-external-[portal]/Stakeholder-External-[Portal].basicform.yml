@@ -1,0 +1,55 @@
+adx_appendquerystring: false
+adx_associatecurrentportaluser: false
+adx_attachfile: false
+adx_attachfileallowmultiple: false
+adx_attachfilerequired: false
+adx_attachfilerestrictaccept: false
+adx_autogeneratesteps: false
+adx_captcharequired: false
+adx_entityformid: ca3c8b8c-7067-4643-9f83-2a042c43f71c
+adx_entityname: contact
+adx_entitypermissionsenabled: true
+adx_entitysourcetype: 756150002
+adx_forceallfieldsrequired: false
+adx_formname: Stakeholder External [Portal]
+adx_geolocation_displaymap: false
+adx_geolocation_enabled: false
+adx_geolocation_maptype: 756150000
+adx_hideformonsuccess: true
+adx_mode: 100000001
+adx_name: Stakeholder External [Portal]
+adx_onsuccess: 756150000
+adx_populatereferenceentitylookupfield: false
+adx_portaluserlookupattributeisactivityparty: false
+adx_recommendedfieldsrequired: false
+adx_recordidquerystringparametername: id
+adx_recordsourceallowcreateonnull: false
+adx_redirecturlappendentityidquerystring: false
+adx_referenceentitylogicalname: list
+adx_referenceentityrelationshipname: listcontact_association
+adx_referenceentityshowreadonlyform: false
+adx_referenceentitysourcetype: 756150000
+adx_referencequeryattributelogicalname: listid
+adx_referencequerystringisprimarykey: true
+adx_referencequerystringname: id
+adx_referencerecordsourcerelationshipname: listcontact_association
+adx_renderwebresourcesinline: false
+adx_setentityreference: true
+adx_showcaptchaforauthenticatedusers: false
+adx_showownerfields: false
+adx_showunsupportedfields: true
+adx_successmessage: >-
+  [
+
+    {
+
+      "LCID": 1033,
+
+      "Value": "Your preferences have been updated."
+
+    }
+
+  ]
+adx_tabname: SUMMARY_TAB
+adx_tooltipenabled: false
+adx_validationsummarylinksenabled: true

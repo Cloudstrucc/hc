@@ -1,0 +1,632 @@
+adx_appendquerystring: false
+adx_associatecurrentportaluser: false
+adx_attachfile: true
+adx_attachfileallowmultiple: true
+adx_attachfilerequired: false
+adx_attachfilerestrictaccept: false
+adx_attachfilesaveoption: 756150000
+adx_attachfilestoragelocation: 756150000
+adx_autogeneratesteps: false
+adx_captcharequired: true
+adx_entityformid: bba50c27-69dd-4a96-acde-11b8a180d8c0
+adx_entityname: campaign
+adx_entitypermissionsenabled: true
+adx_entitysourcetype: 756150001
+adx_forceallfieldsrequired: false
+adx_formname: Campaign
+adx_geolocation_displaymap: false
+adx_geolocation_enabled: false
+adx_geolocation_maptype: 756150000
+adx_hideformonsuccess: true
+adx_mode: 100000001
+adx_name: Campaign (2)
+adx_onsuccess: 756150000
+adx_populatereferenceentitylookupfield: false
+adx_portaluserlookupattributeisactivityparty: false
+adx_recommendedfieldsrequired: false
+adx_recordidquerystringparametername: id
+adx_recordsourceallowcreateonnull: false
+adx_redirecturlappendentityidquerystring: false
+adx_referenceentityshowreadonlyform: false
+adx_referencequerystringisprimarykey: true
+adx_renderwebresourcesinline: false
+adx_setentityreference: false
+adx_settings: >-
+  {
+
+    "Type": "FormActionMetadata",
+
+    "Actions": [
+
+      {
+
+        "Type": "WorkflowAction",
+
+        "WorkflowId": "",
+
+        "WorkflowDialogTitle": [
+
+          {
+
+            "Type": "LanguageResources",
+
+            "LCID": 1033,
+
+            "Value": ""
+
+          },
+
+          {
+
+            "Type": "LanguageResources",
+
+            "LCID": 1036,
+
+            "Value": ""
+
+          }
+
+        ],
+
+        "WorkflowDialogPrimaryButtonText": [
+
+          {
+
+            "Type": "LanguageResources",
+
+            "LCID": 1033,
+
+            "Value": ""
+
+          },
+
+          {
+
+            "Type": "LanguageResources",
+
+            "LCID": 1036,
+
+            "Value": ""
+
+          }
+
+        ],
+
+        "WorkflowDialogCloseButtonText": [
+
+          {
+
+            "Type": "LanguageResources",
+
+            "LCID": 1033,
+
+            "Value": ""
+
+          },
+
+          {
+
+            "Type": "LanguageResources",
+
+            "LCID": 1036,
+
+            "Value": ""
+
+          }
+
+        ],
+
+        "SuccessMessage": [
+
+          {
+
+            "Type": "LanguageResources",
+
+            "LCID": 1033,
+
+            "Value": "The workflow has been initiated."
+
+          },
+
+          {
+
+            "Type": "LanguageResources",
+
+            "LCID": 1036,
+
+            "Value": "The workflow has been initiated."
+
+          }
+
+        ],
+
+        "OnComplete": 0,
+
+        "RedirectWebpageId": "",
+
+        "RedirectUrl": "",
+
+        "ButtonLabel": [
+
+          {
+
+            "Type": "LanguageResources",
+
+            "LCID": 1033,
+
+            "Value": ""
+
+          },
+
+          {
+
+            "Type": "LanguageResources",
+
+            "LCID": 1036,
+
+            "Value": ""
+
+          }
+
+        ],
+
+        "ButtonTooltip": [
+
+          {
+
+            "Type": "LanguageResources",
+
+            "LCID": 1033,
+
+            "Value": ""
+
+          },
+
+          {
+
+            "Type": "LanguageResources",
+
+            "LCID": 1036,
+
+            "Value": ""
+
+          }
+
+        ],
+
+        "ButtonCssClass": "",
+
+        "ActionButtonStyle": 0,
+
+        "ActionButtonPlacement": 1,
+
+        "ActionButtonAlignment": 0,
+
+        "ShowModal": 0,
+
+        "Confirmation": [
+
+          {
+
+            "Type": "LanguageResources",
+
+            "LCID": 1033,
+
+            "Value": ""
+
+          },
+
+          {
+
+            "Type": "LanguageResources",
+
+            "LCID": 1036,
+
+            "Value": ""
+
+          }
+
+        ],
+
+        "FilterCriteria": ""
+
+      }
+
+    ],
+
+    "DeleteDialog": {
+
+      "Type": "DeleteModal",
+
+      "Title": [
+
+        {
+
+          "Type": "LanguageResources",
+
+          "LCID": 1033,
+
+          "Value": ""
+
+        },
+
+        {
+
+          "Type": "LanguageResources",
+
+          "LCID": 1036,
+
+          "Value": ""
+
+        }
+
+      ],
+
+      "PrimaryButtonText": [
+
+        {
+
+          "Type": "LanguageResources",
+
+          "LCID": 1033,
+
+          "Value": ""
+
+        },
+
+        {
+
+          "Type": "LanguageResources",
+
+          "LCID": 1036,
+
+          "Value": ""
+
+        }
+
+      ],
+
+      "CloseButtonText": [
+
+        {
+
+          "Type": "LanguageResources",
+
+          "LCID": 1033,
+
+          "Value": ""
+
+        },
+
+        {
+
+          "Type": "LanguageResources",
+
+          "LCID": 1036,
+
+          "Value": ""
+
+        }
+
+      ],
+
+      "DismissButtonSrText": [
+
+        {
+
+          "Type": "LanguageResources",
+
+          "LCID": 1033,
+
+          "Value": ""
+
+        },
+
+        {
+
+          "Type": "LanguageResources",
+
+          "LCID": 1036,
+
+          "Value": ""
+
+        }
+
+      ],
+
+      "Size": 0,
+
+      "CssClass": "",
+
+      "TitleCssClass": "",
+
+      "PrimaryButtonCssClass": "",
+
+      "CloseButtonCssClass": ""
+
+    },
+
+    "WorkflowDialog": {
+
+      "Type": "WorkflowModal",
+
+      "Title": [
+
+        {
+
+          "Type": "LanguageResources",
+
+          "LCID": 1033,
+
+          "Value": ""
+
+        },
+
+        {
+
+          "Type": "LanguageResources",
+
+          "LCID": 1036,
+
+          "Value": ""
+
+        }
+
+      ],
+
+      "PrimaryButtonText": [
+
+        {
+
+          "Type": "LanguageResources",
+
+          "LCID": 1033,
+
+          "Value": ""
+
+        },
+
+        {
+
+          "Type": "LanguageResources",
+
+          "LCID": 1036,
+
+          "Value": ""
+
+        }
+
+      ],
+
+      "CloseButtonText": [
+
+        {
+
+          "Type": "LanguageResources",
+
+          "LCID": 1033,
+
+          "Value": ""
+
+        },
+
+        {
+
+          "Type": "LanguageResources",
+
+          "LCID": 1036,
+
+          "Value": ""
+
+        }
+
+      ],
+
+      "DismissButtonSrText": [
+
+        {
+
+          "Type": "LanguageResources",
+
+          "LCID": 1033,
+
+          "Value": ""
+
+        },
+
+        {
+
+          "Type": "LanguageResources",
+
+          "LCID": 1036,
+
+          "Value": ""
+
+        }
+
+      ],
+
+      "Size": 0,
+
+      "CssClass": "",
+
+      "TitleCssClass": "",
+
+      "PrimaryButtonCssClass": "",
+
+      "CloseButtonCssClass": ""
+
+    },
+
+    "ActionDropDownButtonLabel": [
+
+      {
+
+        "Type": "LanguageResources",
+
+        "LCID": 1033,
+
+        "Value": ""
+
+      },
+
+      {
+
+        "Type": "LanguageResources",
+
+        "LCID": 1036,
+
+        "Value": ""
+
+      }
+
+    ],
+
+    "TopContainerCssClass": "",
+
+    "BottomContainerCssClass": "",
+
+    "ShowSaveChangesWarningOnExit": false,
+
+    "SaveChangesWarningMessage": [
+
+      {
+
+        "Type": "LanguageResources",
+
+        "LCID": 1033,
+
+        "Value": ""
+
+      },
+
+      {
+
+        "Type": "LanguageResources",
+
+        "LCID": 1036,
+
+        "Value": ""
+
+      }
+
+    ],
+
+    "CreateRelatedRecordDialog": {
+
+      "Type": "CreateRelatedRecordModal",
+
+      "PrimaryButtonText": [
+
+        {
+
+          "Type": "LanguageResources",
+
+          "LCID": 1033,
+
+          "Value": ""
+
+        },
+
+        {
+
+          "Type": "LanguageResources",
+
+          "LCID": 1036,
+
+          "Value": ""
+
+        }
+
+      ],
+
+      "CloseButtonText": [
+
+        {
+
+          "Type": "LanguageResources",
+
+          "LCID": 1033,
+
+          "Value": ""
+
+        },
+
+        {
+
+          "Type": "LanguageResources",
+
+          "LCID": 1036,
+
+          "Value": ""
+
+        }
+
+      ],
+
+      "PrimaryButtonCssClass": "",
+
+      "CloseButtonCssClass": "",
+
+      "Title": [
+
+        {
+
+          "Type": "LanguageResources",
+
+          "LCID": 1033,
+
+          "Value": ""
+
+        },
+
+        {
+
+          "Type": "LanguageResources",
+
+          "LCID": 1036,
+
+          "Value": ""
+
+        }
+
+      ],
+
+      "DismissButtonSrText": [
+
+        {
+
+          "Type": "LanguageResources",
+
+          "LCID": 1033,
+
+          "Value": ""
+
+        },
+
+        {
+
+          "Type": "LanguageResources",
+
+          "LCID": 1036,
+
+          "Value": ""
+
+        }
+
+      ],
+
+      "Size": 0,
+
+      "CssClass": "",
+
+      "TitleCssClass": ""
+
+    }
+
+  }
+adx_showcaptchaforauthenticatedusers: false
+adx_showownerfields: false
+adx_showunsupportedfields: false
+adx_tooltipenabled: false
+adx_validationsummarylinksenabled: true

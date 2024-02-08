@@ -1,0 +1,22 @@
+- adx_name: Profile
+  adx_pageid: 358f0751-a3f5-ed11-8848-000d3a09df54
+  adx_sitemarkerid: 49e80c4b-a3f5-ed11-8848-000d3a09df54
+- adx_name: Knowledge Base
+  adx_sitemarkerid: 4ae80c4b-a3f5-ed11-8848-000d3a09df54
+- adx_name: Knowledge Base Search Results
+  adx_sitemarkerid: 4be80c4b-a3f5-ed11-8848-000d3a09df54
+- adx_name: Access Denied
+  adx_sitemarkerid: 4ce80c4b-a3f5-ed11-8848-000d3a09df54
+- adx_name: Search
+  adx_sitemarkerid: 4de80c4b-a3f5-ed11-8848-000d3a09df54
+- adx_name: Page Not Found
+  adx_sitemarkerid: 4ee80c4b-a3f5-ed11-8848-000d3a09df54
+- adx_name: Default Offline Page
+  adx_pageid: df42e04e-a3f5-ed11-8848-000d3a09d499
+  adx_sitemarkerid: 4fe80c4b-a3f5-ed11-8848-000d3a09df54
+- adx_name: Event Feedback
+  adx_sitemarkerid: a742e04e-a3f5-ed11-8848-000d3a09d499
+- adx_name: Poll Archives
+  adx_sitemarkerid: a842e04e-a3f5-ed11-8848-000d3a09d499
+- adx_name: Home
+  adx_sitemarkerid: a942e04e-a3f5-ed11-8848-000d3a09d499

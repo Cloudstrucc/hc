@@ -1,0 +1,11 @@
+<script>
+(function() {
+   
+    if (location.pathname.contains("ExternalLogin")) {
+        $("legend").css("margin", "40px");              
+    }
+    if ($('.validation-summary').length) {
+        $('.page-copy').insertAfter('.validation-summary');   
+    }    
+});
+</script>

@@ -1,0 +1,12 @@
+- adx_anonymoususersrole: true
+  adx_authenticatedusersrole: false
+  adx_name: Anonymous Users
+  adx_webroleid: 438f0751-a3f5-ed11-8848-000d3a09df54
+- adx_anonymoususersrole: false
+  adx_authenticatedusersrole: true
+  adx_name: Authenticated Users
+  adx_webroleid: eb42e04e-a3f5-ed11-8848-000d3a09d499
+- adx_anonymoususersrole: false
+  adx_authenticatedusersrole: false
+  adx_name: Administrators
+  adx_webroleid: ed42e04e-a3f5-ed11-8848-000d3a09d499
