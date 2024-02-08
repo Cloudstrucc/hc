@@ -6,7 +6,7 @@ adx_attachfilerequired: false
 adx_attachfilerestrictaccept: false
 adx_autogeneratesteps: false
 adx_captcharequired: true
-adx_entityformid: 306fce46-4a88-4a30-a2d9-fb5557a908be
+adx_entityformid: 896f0bcb-8319-4b38-9944-ccd71387dda8
 adx_entityname: contact
 adx_entitypermissionsenabled: true
 adx_forceallfieldsrequired: false
@@ -27,7 +27,7 @@ adx_referenceentityshowreadonlyform: false
 adx_referencequerystringisprimarykey: true
 adx_renderwebresourcesinline: false
 adx_setentityreference: false
-adx_showcaptchaforauthenticatedusers: false
+adx_showcaptchaforauthenticatedusers: true
 adx_showownerfields: false
 adx_showunsupportedfields: false
 adx_tooltipenabled: false

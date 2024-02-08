@@ -1,10 +1,8 @@
-- adx_name: General
-  adx_tagid: 168f0751-a3f5-ed11-8848-000d3a09df54
-- adx_name: Windows Phone
-  adx_tagid: 178f0751-a3f5-ed11-8848-000d3a09df54
-- adx_name: CRM
-  adx_tagid: 188f0751-a3f5-ed11-8848-000d3a09df54
-- adx_name: Microsoft
-  adx_tagid: c342e04e-a3f5-ed11-8848-000d3a09d499
 - adx_name: Technology
-  adx_tagid: c442e04e-a3f5-ed11-8848-000d3a09d499
+  adx_tagid: a2ac7a40-e299-ee11-be37-0022483c04c3
+- adx_name: General
+  adx_tagid: a4ac7a40-e299-ee11-be37-0022483c04c3
+- adx_name: CRM
+  adx_tagid: a5ac7a40-e299-ee11-be37-0022483c04c3
+- adx_name: Microsoft
+  adx_tagid: a6ac7a40-e299-ee11-be37-0022483c04c3

@@ -1,7 +1,8 @@
 <ul class="dropdown-menu" role="menu">
-  {% for language in page.languages %}
+  {% assign ordered_languages = page.languages | order_by: "name" %}
+  {% for language in ordered_languages %}
     <li role="menuitem">
-      <a href="/{{ language.url_substitution }}" title="{{ language.name }}" data-code="{{ language.code }}">{{ language.name }}</a>
+      <a href="/{{ language.url_substitution | escape }}" title="{{ language.name }}" data-code="{{ language.code }}">{{ language.name }}</a>
     </li>
-    {% endfor %}
+  {% endfor %}
 </ul>

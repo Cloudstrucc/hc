@@ -1,26 +1,12 @@
-- adx_name: Grant Change to Administrators
-  adx_right: 1
-  adx_scope: 1
-  adx_webpageaccesscontrolrule_webrole: []
-  adx_webpageaccesscontrolruleid: 418f0751-a3f5-ed11-8848-000d3a09df54
 - adx_name: Grant Change to Content
   adx_right: 1
   adx_scope: 1
   adx_webpageaccesscontrolrule_webrole: []
-  adx_webpageaccesscontrolruleid: 428f0751-a3f5-ed11-8848-000d3a09df54
-- adx_name: Restrict Read on External
-  adx_right: 2
+  adx_webpageaccesscontrolruleid: 8de0b841-e299-ee11-be37-000d3aff3da3
+- adx_name: Grant Change to Administrators
+  adx_right: 1
   adx_scope: 1
   adx_webpageaccesscontrolrule_webrole:
-  - eb42e04e-a3f5-ed11-8848-000d3a09d499
-  - ed42e04e-a3f5-ed11-8848-000d3a09d499
-  adx_webpageaccesscontrolruleid: 47ec92e5-9af4-2793-e6d2-952396bf0746
-  adx_webpageid: 548b8f19-47e5-8552-b335-15f293ef26f9
-- adx_name: Restrict Read on Internal
-  adx_right: 2
-  adx_scope: 1
-  adx_webpageaccesscontrolrule_webrole:
-  - eb42e04e-a3f5-ed11-8848-000d3a09d499
-  - ed42e04e-a3f5-ed11-8848-000d3a09d499
-  adx_webpageaccesscontrolruleid: 724e1c7e-3051-b55f-e7f9-f92f8d323b19
-  adx_webpageid: 1f44d0ea-9129-76d9-931d-8841b821884f
+  - 1fad7a40-e299-ee11-be37-0022483c04c3
+  adx_webpageaccesscontrolruleid: 8ee0b841-e299-ee11-be37-000d3aff3da3
+  adx_webpageid: e3ac7a40-e299-ee11-be37-0022483c04c3
