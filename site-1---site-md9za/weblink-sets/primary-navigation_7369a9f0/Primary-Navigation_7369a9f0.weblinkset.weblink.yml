@@ -1,0 +1,47 @@
+- adx_disablepagevalidation: false
+  adx_displayimageonly: false
+  adx_displayorder: 4
+  adx_displaypagechildlinks: false
+  adx_name: Contact us
+  adx_openinnewwindow: false
+  adx_robotsfollowlink: true
+  adx_weblinkid: 258f0751-a3f5-ed11-8848-000d3a09df54
+  adx_weblinksetid: d542e04e-a3f5-ed11-8848-000d3a09d499
+- adx_disablepagevalidation: false
+  adx_displayimageonly: false
+  adx_displayorder: 1
+  adx_displaypagechildlinks: false
+  adx_name: Home
+  adx_openinnewwindow: false
+  adx_robotsfollowlink: true
+  adx_weblinkid: cc42e04e-a3f5-ed11-8848-000d3a09d499
+  adx_weblinksetid: d542e04e-a3f5-ed11-8848-000d3a09d499
+- adx_disablepagevalidation: false
+  adx_displayimageonly: false
+  adx_displayorder: 3
+  adx_displaypagechildlinks: false
+  adx_name: Pages
+  adx_openinnewwindow: false
+  adx_robotsfollowlink: true
+  adx_weblinkid: d042e04e-a3f5-ed11-8848-000d3a09d499
+  adx_weblinksetid: d542e04e-a3f5-ed11-8848-000d3a09d499
+- adx_disablepagevalidation: false
+  adx_displayimageonly: false
+  adx_displayorder: 1
+  adx_displaypagechildlinks: false
+  adx_name: Subpage 1
+  adx_openinnewwindow: false
+  adx_parentweblinkid: d042e04e-a3f5-ed11-8848-000d3a09d499
+  adx_robotsfollowlink: true
+  adx_weblinkid: d242e04e-a3f5-ed11-8848-000d3a09d499
+  adx_weblinksetid: d542e04e-a3f5-ed11-8848-000d3a09d499
+- adx_disablepagevalidation: false
+  adx_displayimageonly: false
+  adx_displayorder: 2
+  adx_displaypagechildlinks: false
+  adx_name: Subpage 2
+  adx_openinnewwindow: false
+  adx_parentweblinkid: d042e04e-a3f5-ed11-8848-000d3a09d499
+  adx_robotsfollowlink: true
+  adx_weblinkid: d342e04e-a3f5-ed11-8848-000d3a09d499
+  adx_weblinksetid: d542e04e-a3f5-ed11-8848-000d3a09d499

@@ -1,0 +1,11 @@
+adx_append: true
+adx_appendto: true
+adx_create: true
+adx_delete: false
+adx_entitylogicalname: annotation
+adx_entityname: Notes
+adx_entitypermission_webrole: []
+adx_entitypermissionid: cc2265b8-9000-ee11-8f6d-000d3a09df54
+adx_read: true
+adx_scope: 756150000
+adx_write: true
