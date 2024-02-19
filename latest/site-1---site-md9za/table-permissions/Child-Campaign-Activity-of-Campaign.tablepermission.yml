@@ -1,0 +1,13 @@
+adx_append: true
+adx_appendto: true
+adx_create: true
+adx_delete: true
+adx_entitylogicalname: campaignactivity
+adx_entityname: Child Campaign Activity of Campaign
+adx_entitypermission_webrole: []
+adx_entitypermissionid: 98eb0b77-e320-ee11-9967-000d3a09d499
+adx_parententitypermission: b997166f-eeff-ed11-8f6d-000d3a09d499
+adx_parentrelationship: Campaign_CampaignActivities
+adx_read: true
+adx_scope: 756150003
+adx_write: true

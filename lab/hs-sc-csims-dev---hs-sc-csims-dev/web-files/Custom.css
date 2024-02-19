@@ -1,0 +1,30 @@
+#content_form {
+    margin-bottom: 5px;
+}
+
+.open>.dropdown-menu{
+    background-color: var(--portalThemeColor4, #ffffff);
+}
+.open>.dropdown-menu>li>a{
+    color: var(--portalThemeOnColor9, #1276CE);
+}
+
+
+.open .dropdown-menu > li > a:hover,.dropdown-menu > .active > a:hover{
+    color: var(--portalThemeColor4, #ffffff);
+    background-color: var(--portalThemeOnColor9, #1276CE);
+    text-decoration: Underline;
+
+}
+.dropdown-menu>.active>a{
+    color: var(--portalThemeColor4, #ffffff);
+    background-color: var(--portalThemeOnColor9, #1276CE);
+    text-decoration: Underline;
+
+}
+.open .dropdown-menu>.active>a:focus{
+    color: var(--portalThemeColor4, #ffffff);
+    background-color: var(--portalThemeOnColor9, #1276CE);
+    text-decoration: Underline;
+
+}

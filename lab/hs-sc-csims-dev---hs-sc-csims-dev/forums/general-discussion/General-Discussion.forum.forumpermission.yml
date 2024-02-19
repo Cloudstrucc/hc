@@ -1,0 +1,6 @@
+- adx_communityforumaccesspermission_webrole:
+  - e7d2d748-58cd-ee11-9079-002248b1790d
+  adx_communityforumaccesspermissionid: dd989642-58cd-ee11-9079-0022483d3b93
+  adx_forumid: dc989642-58cd-ee11-9079-0022483d3b93
+  adx_name: Full Control
+  adx_right: 1

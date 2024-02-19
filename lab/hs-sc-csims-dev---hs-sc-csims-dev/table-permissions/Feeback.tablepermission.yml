@@ -1,0 +1,12 @@
+adx_append: false
+adx_appendto: false
+adx_create: true
+adx_delete: false
+adx_entitylogicalname: feedback
+adx_entityname: Feeback
+adx_entitypermission_webrole:
+- e6d2d748-58cd-ee11-9079-002248b1790d
+adx_entitypermissionid: 81f25c41-58cd-ee11-9079-6045bd60843f
+adx_read: false
+adx_scope: 756150000
+adx_write: false

@@ -1,0 +1,3 @@
+<select id="subscriptionMultiselect" multiple> {% assign subscriptions = entitylist.csim_stakeholdersubscription.records %} {% for subscription in subscriptions %} <option value="{{ subscription.csim_name }} ">
+{{ subscription.csim_name }}
+</option> {% endfor %} </select>

@@ -1,0 +1,13 @@
+adx_append: false
+adx_appendto: false
+adx_create: false
+adx_delete: false
+adx_entitylogicalname: knowledgearticle
+adx_entityname: Knowledge Article Global Permission
+adx_entitypermission_webrole:
+- 417dab48-58cd-ee11-9079-0022483d3b93
+- e6d2d748-58cd-ee11-9079-002248b1790d
+adx_entitypermissionid: 83f25c41-58cd-ee11-9079-6045bd60843f
+adx_read: true
+adx_scope: 756150000
+adx_write: false
